@@ -1,0 +1,41 @@
+.icon {
+    fill: white;
+    margin-bottom: 1rem;
+}
+
+.login-wrapper {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.react-tel-input .form-control {
+    padding: 1.5rem;
+}
+
+.form-wrapper {
+    max-width: 500px;
+    margin: auto;
+    background: #4E4FEB;
+    padding: 2rem;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px 10px #ffffff2d;
+}
+
+.otp-input input:last-child {
+    margin-right: 0 !important;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    background: white;
+    color: #4E4FEB;
+}
+
+.button:hover {
+    background: #d6d6d6 !important;
+}
